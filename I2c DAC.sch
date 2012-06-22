@@ -5897,7 +5897,6 @@ http://www.zetex.com&lt;p&gt;
 </sheets>
 <errors>
 <approved hash="115,1,119.617,48.3912,I2C,,,,,"/>
-<approved hash="115,1,59.5588,76.4371,AOUT,,,,,"/>
 <approved hash="115,1,21.7212,68.3429,VSEL,,,,,"/>
 </errors>
 </schematic>
